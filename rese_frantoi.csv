@@ -1,181 +1,181 @@
-"";"Provincia_oliveto";"Comune_oliveto";"Resa_perc";"Data_frangitura";"Settimana"
-"1";"GENOVA";"sestri levante";16;2017-09-29;"39"
-"2";"GENOVA";"sori";18;2017-09-29;"39"
-"3";"GENOVA";"Leivi";18;2017-09-30;"39"
-"4";"GENOVA";"chiavari";20,1;2017-10-02;"40"
-"5";"GENOVA";"Leivi";14;2017-10-02;"40"
-"6";"GENOVA";"sestri levante";17,5;2017-10-02;"40"
-"7";"GENOVA";"lavagna";17,6;2017-10-03;"40"
-"8";"GENOVA";"Sori";21;2017-10-03;"40"
-"9";"GENOVA";"Lavagna";18;2017-10-03;"40"
-"10";"GENOVA";"lavagna";18,3;2017-10-04;"40"
-"11";"GENOVA";"chiavari";7;2017-10-05;"40"
-"12";"GENOVA";"lavagna";16,2;2017-10-05;"40"
-"13";"GENOVA";"Sestri Levante";21;2017-10-05;"40"
-"14";"GENOVA";"cogoleto";14;2017-10-05;"40"
-"15";"GENOVA";"lavagna";20,2;2017-10-06;"40"
-"16";"GENOVA";"RECCO";22;2017-10-07;"40"
-"17";"GENOVA";"sori";16;2017-10-07;"40"
-"18";"GENOVA";"Pieve Ligure";21;2017-10-09;"41"
-"19";"GENOVA";"chiavari";19,5;2017-10-09;"41"
-"20";"GENOVA";"Genova";20;2017-10-10;"41"
-"21";"GENOVA";"Sestri Levante";20;2017-10-10;"41"
-"22";"GENOVA";"Sestri Levante";20;2017-10-10;"41"
-"23";"GENOVA";"Rapallo";22;2017-10-10;"41"
-"24";"GENOVA";"cogorno";17,4;2017-10-10;"41"
-"25";"GENOVA";"Santa Margherita Ligure";17,5;2017-10-11;"41"
-"26";"GENOVA";"Cogorno";19,4;2017-10-12;"41"
-"27";"GENOVA";"ZOAGLI";18,5;2017-10-12;"41"
-"28";"GENOVA";"Camogli";20;2017-10-14;"41"
-"29";"GENOVA";"rapallo";18;2017-10-16;"42"
-"30";"GENOVA";"Pieve Ligure";23,5;2017-10-16;"42"
-"31";"GENOVA";"Genova";19;2017-10-16;"42"
-"32";"GENOVA";"Pieve Ligure";23,5;2017-10-16;"42"
-"33";"GENOVA";"Genova";19;2017-10-16;"42"
-"34";"GENOVA";"Sestri levante";17;2017-10-16;"42"
-"35";"GENOVA";"cogorno";21,5;2017-10-16;"42"
-"36";"GENOVA";"recco";20;2017-10-16;"42"
-"37";"GENOVA";"Recco";22;2017-10-18;"42"
-"38";"GENOVA";"genova";21,5;2017-10-18;"42"
-"39";"GENOVA";"Rapallo";19;2017-10-19;"42"
-"40";"GENOVA";"Zoagli";22;2017-10-19;"42"
-"41";"GENOVA";"Pieve Ligure";21,4;2017-10-19;"42"
-"42";"GENOVA";"Sestri Levante";19;2017-10-20;"42"
-"43";"GENOVA";"chiavari";22,1;2017-10-20;"42"
-"44";"GENOVA";"serra riccÃ²";14;2017-10-20;"42"
-"45";"GENOVA";"Recco";24;2017-10-21;"42"
-"46";"GENOVA";"chiavari";19,9;2017-10-22;"43"
-"47";"GENOVA";"genova";22;2017-10-23;"43"
-"48";"IMPERIA";"Riva Ligure";21;2017-10-03;"40"
-"49";"IMPERIA";"Imperia";28;2017-10-06;"40"
-"50";"IMPERIA";"dolcedo";15;2017-10-08;"41"
-"51";"IMPERIA";"Imperia";25;2017-10-09;"41"
-"52";"IMPERIA";"Sanremo";21;2017-10-09;"41"
-"53";"IMPERIA";"Ceriana";21,4;2017-10-09;"41"
-"54";"IMPERIA";"Diano San Pietro";20,8;2017-10-10;"41"
-"55";"IMPERIA";"Imperia";21,8;2017-10-11;"41"
-"56";"IMPERIA";"Diano Castello";17;2017-10-11;"41"
-"57";"IMPERIA";"imperia";23;2017-10-12;"41"
-"58";"IMPERIA";"Imperia";20,3;2017-10-12;"41"
-"59";"IMPERIA";"taggia";17;2017-10-13;"41"
-"60";"IMPERIA";"Camporosso";17;2017-10-13;"41"
-"61";"IMPERIA";"Camporosso";17;2017-10-13;"41"
-"62";"IMPERIA";"Imperia fraz. Poggi";19;2017-10-13;"41"
-"63";"IMPERIA";"Castellaro";20;2017-10-13;"41"
-"64";"IMPERIA";"Imperia";21,3;2017-10-14;"41"
-"65";"IMPERIA";"Costarainera";22,7;2017-10-14;"41"
-"66";"IMPERIA";"Sanremo";26;2017-10-16;"42"
-"67";"IMPERIA";"Taggia";18;2017-10-17;"42"
-"68";"IMPERIA";"Taggia";18;2017-10-17;"42"
-"69";"IMPERIA";"Taggia";18;2017-10-17;"42"
-"70";"IMPERIA";"Taggia";18;2017-10-17;"42"
-"71";"IMPERIA";"Ceriana";15,5;2017-10-17;"42"
-"72";"IMPERIA";"Imperia";23;2017-10-17;"42"
-"73";"IMPERIA";"soldano";20;2017-10-18;"42"
-"74";"IMPERIA";"sanremo";24,4;2017-10-18;"42"
-"75";"IMPERIA";"Taggia";11,9;2017-10-19;"42"
-"76";"IMPERIA";"Imperia";22;2017-10-19;"42"
-"77";"IMPERIA";"Vallebona";26;2017-10-20;"42"
-"78";"IMPERIA";"Costarainera";24;2017-10-21;"42"
-"79";"LA SPEZIA";"Lerici";14;2017-09-29;"39"
-"80";"LA SPEZIA";"Vezzano";14,4;2017-10-01;"40"
-"81";"LA SPEZIA";"Arcola";11,7;2017-10-02;"40"
-"82";"LA SPEZIA";"Framura";14;2017-10-03;"40"
-"83";"LA SPEZIA";"Luni";13;2017-10-04;"40"
-"84";"LA SPEZIA";"arcola";13;2017-10-04;"40"
-"85";"LA SPEZIA";"Portovenere";14;2017-10-04;"40"
-"86";"LA SPEZIA";"lerici";16;2017-10-05;"40"
-"87";"LA SPEZIA";"Deiva marina";16,5;2017-10-05;"40"
-"88";"LA SPEZIA";"Bolano";13;2017-10-07;"40"
-"89";"LA SPEZIA";"Luni";15;2017-10-07;"40"
-"90";"LA SPEZIA";"Castelnuovo Magra";13,8;2017-10-07;"40"
-"91";"LA SPEZIA";"Arcola";12,2;2017-10-07;"40"
-"92";"LA SPEZIA";"Arcola";13,7;2017-10-09;"41"
-"93";"LA SPEZIA";"la spezia";18;2017-10-09;"41"
-"94";"LA SPEZIA";"Riomaggiore";11,4;2017-10-09;"41"
-"95";"LA SPEZIA";"Vezzano ligure";16,5;2017-10-09;"41"
-"96";"LA SPEZIA";"Sarzana";13;2017-10-09;"41"
-"97";"LA SPEZIA";"Castelnuovo Magra";12,5;2017-10-09;"41"
-"98";"LA SPEZIA";"S.stefano di Magra";11,5;2017-10-09;"41"
-"99";"LA SPEZIA";"vezzano ligure";15;2017-10-09;"41"
-"100";"LA SPEZIA";"vezzano ligure";15;2017-10-09;"41"
-"101";"LA SPEZIA";"Santo Stefano Magra (Ponzano";16;2017-10-09;"41"
-"102";"LA SPEZIA";"La Spezia";19,2;2017-10-09;"41"
-"103";"LA SPEZIA";"portovenere";14,2;2017-10-10;"41"
-"104";"LA SPEZIA";"Santo Stefano di Magra";14;2017-10-10;"41"
-"105";"LA SPEZIA";"La Spezia";17,3;2017-10-10;"41"
-"106";"LA SPEZIA";"CastelnuovoMagra";13,6;2017-10-10;"41"
-"107";"LA SPEZIA";"Luni";16;2017-10-11;"41"
-"108";"LA SPEZIA";"Portovenere";17;2017-10-11;"41"
-"109";"LA SPEZIA";"Levanto";23;2017-10-12;"41"
-"110";"LA SPEZIA";"Lerici";19;2017-10-12;"41"
-"111";"LA SPEZIA";"VEZZANO LIGURE";14,5;2017-10-12;"41"
-"112";"LA SPEZIA";"arcola";18,5;2017-10-12;"41"
-"113";"LA SPEZIA";"Bolano";14;2017-10-14;"41"
-"114";"LA SPEZIA";"Framura";13,6;2017-10-14;"41"
-"115";"LA SPEZIA";"Framura";13,6;2017-10-14;"41"
-"116";"LA SPEZIA";"monterosso al mare";17;2017-10-16;"42"
-"117";"LA SPEZIA";"lerici";18;2017-10-16;"42"
-"118";"LA SPEZIA";"Levanto";19;2017-10-16;"42"
-"119";"LA SPEZIA";"vezzano ligure";17;2017-10-16;"42"
-"120";"LA SPEZIA";"vezzano ligure";17;2017-10-16;"42"
-"121";"LA SPEZIA";"Follo";21;2017-10-16;"42"
-"122";"LA SPEZIA";"Sarzana";12;2017-10-17;"42"
-"123";"LA SPEZIA";"La Spezia";11,1;2017-10-17;"42"
-"124";"LA SPEZIA";"Ameglia";15;2017-10-17;"42"
-"125";"LA SPEZIA";"Sarzana";12;2017-10-17;"42"
-"126";"LA SPEZIA";"La Spezia";11,1;2017-10-17;"42"
-"127";"LA SPEZIA";"Ameglia";15;2017-10-17;"42"
-"128";"LA SPEZIA";"CASTELNUOVO MAGRA";13;2017-10-17;"42"
-"129";"LA SPEZIA";"s stefano m ponzano superiore";12;2017-10-17;"42"
-"130";"LA SPEZIA";"Arcola";17;2017-10-17;"42"
-"131";"LA SPEZIA";"lerici";20;2017-10-18;"42"
-"132";"LA SPEZIA";"VEZZANO LIGURE";16,4;2017-10-18;"42"
-"133";"LA SPEZIA";"Luni";17;2017-10-19;"42"
-"134";"LA SPEZIA";"";19,2;2017-10-19;"42"
-"135";"LA SPEZIA";"lerici";20;2017-10-19;"42"
-"136";"LA SPEZIA";"Vezzano Ligure";21,7;2017-10-19;"42"
-"137";"LA SPEZIA";"La Spezia";17;2017-10-20;"42"
-"138";"LA SPEZIA";"La Spezia";22;2017-10-20;"42"
-"139";"LA SPEZIA";"Sarzana";17,9;2017-10-20;"42"
-"140";"LA SPEZIA";"Santo Stefano Magra (Ponzano";19;2017-10-20;"42"
-"141";"LA SPEZIA";"lerici";22,5;2017-10-20;"42"
-"142";"LA SPEZIA";"lerici";19;2017-10-21;"42"
-"143";"LA SPEZIA";"la spezia";17,1;2017-10-23;"43"
-"144";"LA SPEZIA";"Sarzana ( zona paternino )";19,7;2017-10-24;"43"
-"145";"LA SPEZIA";"Bolano";19;2017-10-25;"43"
-"146";"SAVONA";"Albissola Marina";13;2017-09-30;"39"
-"147";"SAVONA";"Celle ligure";17;2017-10-02;"40"
-"148";"SAVONA";"Spotorno";17,5;2017-10-02;"40"
-"149";"SAVONA";"Celleligure";19;2017-10-03;"40"
-"150";"SAVONA";"Celle ligure";19;2017-10-04;"40"
-"151";"SAVONA";"Celleligure";22;2017-10-06;"40"
-"152";"SAVONA";"noli";14;2017-10-06;"40"
-"153";"SAVONA";"Loano";18;2017-10-07;"40"
-"154";"SAVONA";"Quiliano";13,2;2017-10-07;"40"
-"155";"SAVONA";"Celle Ligure";18;2017-10-08;"41"
-"156";"SAVONA";"albisola superiore";16;2017-10-09;"41"
-"157";"SAVONA";"Celleligure";24;2017-10-10;"41"
-"158";"SAVONA";"Celle ligure";20;2017-10-11;"41"
-"159";"SAVONA";"alassio";18;2017-10-12;"41"
-"160";"SAVONA";"albisola superiore";17,4;2017-10-12;"41"
-"161";"SAVONA";"finale ligure";22;2017-10-13;"41"
-"162";"SAVONA";"Celle ligire";18;2017-10-13;"41"
-"163";"SAVONA";"Celle ligire";18;2017-10-13;"41"
-"164";"SAVONA";"noli";22;2017-10-13;"41"
-"165";"SAVONA";"SAVONA";31;2017-10-14;"41"
-"166";"SAVONA";"Savona";16;2017-10-14;"41"
-"167";"SAVONA";"Celle ligure";19;2017-10-16;"42"
-"168";"SAVONA";"loano sv";22;2017-10-16;"42"
-"169";"SAVONA";"magliolo";19,6;2017-10-16;"42"
-"170";"SAVONA";"Andora";21,6;2017-10-16;"42"
-"171";"SAVONA";"Albenga";22,5;2017-10-17;"42"
-"172";"SAVONA";"Alassio";22;2017-10-17;"42"
-"173";"SAVONA";"Tovo San Giacomo";20;2017-10-17;"42"
-"174";"SAVONA";"Laigueglia";19,2;2017-10-19;"42"
-"175";"SAVONA";"CERIALE";20;2017-10-20;"42"
-"176";"SAVONA";"Savona";19,5;2017-10-20;"42"
-"177";"SAVONA";"Finale Ligure";24;2017-10-20;"42"
-"178";"SAVONA";"Celle ligure";25;2017-10-21;"42"
-"179";"SAVONA";"VADO LIGURE";15,7;2017-10-22;"43"
-"180";"SAVONA";"Onzo";22;2017-10-24;"43"
+"";"Comune";"Provincia";"Resa_perc";"Data_frangitura"
+"1";"Alassio";"SAVONA";18;2017-10-12
+"2";"Alassio";"SAVONA";22;2017-10-17
+"3";"Albenga";"SAVONA";22,5;2017-10-17
+"4";"Albisola Superiore";"SAVONA";16;2017-10-09
+"5";"Albisola Superiore";"SAVONA";17,4;2017-10-12
+"6";"Albissola Marina";"SAVONA";13;2017-09-30
+"7";"Ameglia";"LA SPEZIA";15;2017-10-17
+"8";"Ameglia";"LA SPEZIA";15;2017-10-17
+"9";"Andora";"SAVONA";21,6;2017-10-16
+"10";"Arcola";"LA SPEZIA";17;2017-10-17
+"11";"Arcola";"LA SPEZIA";11,7;2017-10-02
+"12";"Arcola";"LA SPEZIA";13;2017-10-04
+"13";"Arcola";"LA SPEZIA";13,7;2017-10-09
+"14";"Arcola";"LA SPEZIA";12,2;2017-10-07
+"15";"Arcola";"LA SPEZIA";18,5;2017-10-12
+"16";"Bolano";"LA SPEZIA";13;2017-10-07
+"17";"Bolano";"LA SPEZIA";14;2017-10-14
+"18";"Bolano";"LA SPEZIA";19;2017-10-25
+"19";"Camogli";"GENOVA";20;2017-10-14
+"20";"Camporosso";"IMPERIA";17;2017-10-13
+"21";"Camporosso";"IMPERIA";17;2017-10-13
+"22";"Castellaro";"IMPERIA";20;2017-10-13
+"23";"Castelnuovo Magra";"LA SPEZIA";13;2017-10-17
+"24";"Castelnuovo Magra";"LA SPEZIA";13,8;2017-10-07
+"25";"Castelnuovo Magra";"LA SPEZIA";12,5;2017-10-09
+"26";"Castelnuovo Magra";"LA SPEZIA";13,6;2017-10-10
+"27";"Celle Ligure";"SAVONA";17;2017-10-02
+"28";"Celle Ligure";"SAVONA";25;2017-10-21
+"29";"Celle Ligure";"SAVONA";19;2017-10-03
+"30";"Celle Ligure";"SAVONA";19;2017-10-04
+"31";"Celle Ligure";"SAVONA";22;2017-10-06
+"32";"Celle Ligure";"SAVONA";24;2017-10-10
+"33";"Celle Ligure";"SAVONA";19;2017-10-16
+"34";"Celle Ligure";"SAVONA";18;2017-10-08
+"35";"Celle Ligure";"SAVONA";20;2017-10-11
+"36";"Celle Ligure";"SAVONA";18;2017-10-13
+"37";"Celle Ligure";"SAVONA";18;2017-10-13
+"38";"Ceriale";"SAVONA";20;2017-10-20
+"39";"Ceriana";"IMPERIA";21,4;2017-10-09
+"40";"Ceriana";"IMPERIA";15,5;2017-10-17
+"41";"Chiavari";"GENOVA";19,9;2017-10-22
+"42";"Chiavari";"GENOVA";7;2017-10-05
+"43";"Chiavari";"GENOVA";22,1;2017-10-20
+"44";"Chiavari";"GENOVA";19,5;2017-10-09
+"45";"Chiavari";"GENOVA";20,1;2017-10-02
+"46";"Cogoleto";"GENOVA";14;2017-10-05
+"47";"Cogorno";"GENOVA";21,5;2017-10-16
+"48";"Cogorno";"GENOVA";17,4;2017-10-10
+"49";"Cogorno";"GENOVA";19,4;2017-10-12
+"50";"Costarainera";"IMPERIA";22,7;2017-10-14
+"51";"Costarainera";"IMPERIA";24;2017-10-21
+"52";"Deiva Marina";"LA SPEZIA";16,5;2017-10-05
+"53";"Diano Castello";"IMPERIA";17;2017-10-11
+"54";"Diano San Pietro";"IMPERIA";20,8;2017-10-10
+"55";"Dolcedo";"IMPERIA";15;2017-10-08
+"56";"Finale Ligure";"SAVONA";22;2017-10-13
+"57";"Finale Ligure";"SAVONA";24;2017-10-20
+"58";"Follo";"LA SPEZIA";21;2017-10-16
+"59";"Framura";"LA SPEZIA";14;2017-10-03
+"60";"Framura";"LA SPEZIA";13,6;2017-10-14
+"61";"Framura";"LA SPEZIA";13,6;2017-10-14
+"62";"Genova";"GENOVA";19;2017-10-16
+"63";"Genova";"GENOVA";21,5;2017-10-18
+"64";"Genova";"GENOVA";19;2017-10-16
+"65";"Genova";"GENOVA";22;2017-10-23
+"66";"Genova";"GENOVA";20;2017-10-10
+"67";"Imperia";"IMPERIA";28;2017-10-06
+"68";"Imperia";"IMPERIA";22;2017-10-19
+"69";"Imperia";"IMPERIA";25;2017-10-09
+"70";"Imperia";"IMPERIA";21,3;2017-10-14
+"71";"Imperia";"IMPERIA";23;2017-10-12
+"72";"Imperia";"IMPERIA";20,3;2017-10-12
+"73";"Imperia";"IMPERIA";21,8;2017-10-11
+"74";"Imperia";"IMPERIA";19;2017-10-13
+"75";"Imperia";"IMPERIA";23;2017-10-17
+"76";"La Spezia";"LA SPEZIA";22;2017-10-20
+"77";"La Spezia";"LA SPEZIA";18;2017-10-09
+"78";"La Spezia";"LA SPEZIA";11,1;2017-10-17
+"79";"La Spezia";"LA SPEZIA";11,1;2017-10-17
+"80";"La Spezia";"LA SPEZIA";19,2;2017-10-09
+"81";"La Spezia";"LA SPEZIA";17,3;2017-10-10
+"82";"La Spezia";"LA SPEZIA";17,1;2017-10-23
+"83";"La Spezia";"LA SPEZIA";19,2;2017-10-19
+"84";"La Spezia";"LA SPEZIA";17;2017-10-20
+"85";"Laigueglia";"SAVONA";19,2;2017-10-19
+"86";"Lavagna";"GENOVA";16,2;2017-10-05
+"87";"Lavagna";"GENOVA";18,3;2017-10-04
+"88";"Lavagna";"GENOVA";20,2;2017-10-06
+"89";"Lavagna";"GENOVA";17,6;2017-10-03
+"90";"Lavagna";"GENOVA";18;2017-10-03
+"91";"Leivi";"GENOVA";18;2017-09-30
+"92";"Leivi";"GENOVA";14;2017-10-02
+"93";"Lerici";"LA SPEZIA";14;2017-09-29
+"94";"Lerici";"LA SPEZIA";19;2017-10-12
+"95";"Lerici";"LA SPEZIA";19;2017-10-21
+"96";"Lerici";"LA SPEZIA";20;2017-10-19
+"97";"Lerici";"LA SPEZIA";20;2017-10-18
+"98";"Lerici";"LA SPEZIA";22,5;2017-10-20
+"99";"Lerici";"LA SPEZIA";16;2017-10-05
+"100";"Lerici";"LA SPEZIA";18;2017-10-16
+"101";"Levanto";"LA SPEZIA";19;2017-10-16
+"102";"Levanto";"LA SPEZIA";23;2017-10-12
+"103";"Loano";"SAVONA";22;2017-10-16
+"104";"Loano";"SAVONA";18;2017-10-07
+"105";"Luni";"LA SPEZIA";16;2017-10-11
+"106";"Luni";"LA SPEZIA";15;2017-10-07
+"107";"Luni";"LA SPEZIA";13;2017-10-04
+"108";"Luni";"LA SPEZIA";17;2017-10-19
+"109";"Magliolo";"SAVONA";19,6;2017-10-16
+"110";"Monterosso al Mare";"LA SPEZIA";17;2017-10-16
+"111";"Noli";"SAVONA";22;2017-10-13
+"112";"Noli";"SAVONA";14;2017-10-06
+"113";"Onzo";"SAVONA";22;2017-10-24
+"114";"Pieve Ligure";"GENOVA";23,5;2017-10-16
+"115";"Pieve Ligure";"GENOVA";23,5;2017-10-16
+"116";"Pieve Ligure";"GENOVA";21;2017-10-09
+"117";"Pieve Ligure";"GENOVA";21,4;2017-10-19
+"118";"Porto Venere";"LA SPEZIA";14;2017-10-04
+"119";"Porto Venere";"LA SPEZIA";17;2017-10-11
+"120";"Porto Venere";"LA SPEZIA";14,2;2017-10-10
+"121";"Quiliano";"SAVONA";13,2;2017-10-07
+"122";"Rapallo";"GENOVA";22;2017-10-10
+"123";"Rapallo";"GENOVA";19;2017-10-19
+"124";"Rapallo";"GENOVA";18;2017-10-16
+"125";"Recco";"GENOVA";20;2017-10-16
+"126";"Recco";"GENOVA";22;2017-10-18
+"127";"Recco";"GENOVA";22;2017-10-07
+"128";"Recco";"GENOVA";24;2017-10-21
+"129";"Riomaggiore";"LA SPEZIA";11,4;2017-10-09
+"130";"Riva Ligure";"IMPERIA";21;2017-10-03
+"131";"Sanremo";"IMPERIA";21;2017-10-09
+"132";"Sanremo";"IMPERIA";26;2017-10-16
+"133";"Sanremo";"IMPERIA";24,4;2017-10-18
+"134";"Santa Margherita Ligure";"GENOVA";17,5;2017-10-11
+"135";"Santo Stefano di Magra";"LA SPEZIA";11,5;2017-10-09
+"136";"Santo Stefano di Magra";"LA SPEZIA";19;2017-10-20
+"137";"Santo Stefano di Magra";"LA SPEZIA";12;2017-10-17
+"138";"Santo Stefano di Magra";"LA SPEZIA";14;2017-10-10
+"139";"Santo Stefano di Magra";"LA SPEZIA";16;2017-10-09
+"140";"Sarzana";"LA SPEZIA";17,9;2017-10-20
+"141";"Sarzana";"LA SPEZIA";12;2017-10-17
+"142";"Sarzana";"LA SPEZIA";19,7;2017-10-24
+"143";"Sarzana";"LA SPEZIA";12;2017-10-17
+"144";"Sarzana";"LA SPEZIA";13;2017-10-09
+"145";"Savona";"SAVONA";16;2017-10-14
+"146";"Savona";"SAVONA";31;2017-10-14
+"147";"Savona";"SAVONA";19,5;2017-10-20
+"148";"Serra Riccò";"GENOVA";14;2017-10-20
+"149";"Sestri Levante";"GENOVA";16;2017-09-29
+"150";"Sestri Levante";"GENOVA";19;2017-10-20
+"151";"Sestri Levante";"GENOVA";20;2017-10-10
+"152";"Sestri Levante";"GENOVA";20;2017-10-10
+"153";"Sestri Levante";"GENOVA";17,5;2017-10-02
+"154";"Sestri Levante";"GENOVA";21;2017-10-05
+"155";"Sestri Levante";"GENOVA";17;2017-10-16
+"156";"Soldano";"IMPERIA";20;2017-10-18
+"157";"Sori";"GENOVA";18;2017-09-29
+"158";"Sori";"GENOVA";16;2017-10-07
+"159";"Sori";"GENOVA";21;2017-10-03
+"160";"Spotorno";"SAVONA";17,5;2017-10-02
+"161";"Taggia";"IMPERIA";18;2017-10-17
+"162";"Taggia";"IMPERIA";18;2017-10-17
+"163";"Taggia";"IMPERIA";17;2017-10-13
+"164";"Taggia";"IMPERIA";18;2017-10-17
+"165";"Taggia";"IMPERIA";18;2017-10-17
+"166";"Taggia";"IMPERIA";11,9;2017-10-19
+"167";"Tovo San Giacomo";"SAVONA";20;2017-10-17
+"168";"Vado Ligure";"SAVONA";15,7;2017-10-22
+"169";"Vallebona";"IMPERIA";26;2017-10-20
+"170";"Vezzano Ligure";"LA SPEZIA";17;2017-10-16
+"171";"Vezzano Ligure";"LA SPEZIA";21,7;2017-10-19
+"172";"Vezzano Ligure";"LA SPEZIA";14,5;2017-10-12
+"173";"Vezzano Ligure";"LA SPEZIA";15;2017-10-09
+"174";"Vezzano Ligure";"LA SPEZIA";14,4;2017-10-01
+"175";"Vezzano Ligure";"LA SPEZIA";17;2017-10-16
+"176";"Vezzano Ligure";"LA SPEZIA";15;2017-10-09
+"177";"Vezzano Ligure";"LA SPEZIA";16,4;2017-10-18
+"178";"Vezzano Ligure";"LA SPEZIA";16,5;2017-10-09
+"179";"Zoagli";"GENOVA";22;2017-10-19
+"180";"Zoagli";"GENOVA";18,5;2017-10-12
