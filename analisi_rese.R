@@ -4,8 +4,9 @@ library(dplyr)
 library(tidyr)
 library(plotly)
 
-data <- read.csv2("rese_frantoi.csv")
-data$Data_frangitura <- as.Date(df$Data_frangitura)
+data <- read.csv2("rese_frantoi.csv",colClasses = c("factor","factor","numeric","Date"))
+str(data) ; summary(data)
+
 
 data %>% 
   group_by(Comune) %>% 
@@ -19,4 +20,12 @@ plt <- ggplot(data,aes(Data_frangitura,Resa_perc, color = Comune)) +
   facet_wrap(~Provincia)
 plt
 
-ggplotly(plt)
+# ggplotly(plt)
+
+data %>% 
+  mutate(Settimana = strftime(Data_frangitura,"%W")) %>% 
+  group_by(Comune,Settimana) %>% 
+  summarize(Conteggio = n(),
+            Resa_media = mean(Resa_perc)) %>% 
+  filter(Conteggio>1) %>% 
+  arrange(desc(Resa_media))

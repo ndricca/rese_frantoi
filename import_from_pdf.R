@@ -4,6 +4,7 @@ library(tabulizer)
 library(tidyr)
 library(dplyr)
 library(rvest)
+library(stringdist)
 
 # extraction of the data from pdf file 
 data <- extract_tables("Rese_frantoi_17.pdf")
@@ -21,7 +22,7 @@ data$Data_frangitura <- as.Date(paste0(data$Data_frangitura,"/2017"),format = "%
 data$Comune_oliveto <- tolower(data$Comune_oliveto)
 data$Comune_oliveto <- ifelse(data$Comune_oliveto=="",as.character(data$Provincia_oliveto),data$Comune_oliveto)
 
-rm(province, headers)
+
 
 # get official list of Ligurian municipalities to match with the ones declared into the pdf document
 url <- "https://it.wikipedia.org/wiki/Comuni_della_Liguria"
@@ -29,7 +30,7 @@ comuni <- url %>%
   read_html() %>%
   html_nodes(xpath='//*[@id="mw-content-text"]/div/table[1]') %>%
   html_table()
-rm(url)
+
 
 comuni <- comuni[[1]]
 summary(comuni) ; str(comuni)
@@ -69,4 +70,6 @@ names(data) <- c("Comune","Provincia","Resa_perc","Data_frangitura")
 
 
 # creation of a 
-write.csv2(data,"rese_frantoi.csv")
+write.csv2(data,"rese_frantoi.csv",row.names = FALSE)
+
+rm(province, headers,url,comuni,wrong_data)
